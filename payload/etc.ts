@@ -5,20 +5,15 @@ const etc: IEtc.Payload = {
 
   list: [
     {
-      title: 'Capstone Design Contest',
-      subTitle: 'Grand Prize',
-      startedAt: '2015-05',
+      title: 'Samsung R&D Institute India-Bangalore (SRI-B)',
+      subTitle: '체험형 해외 인턴',
+      startedAt: '2019-07',
     },
     {
-      title: 'IT Education Service Activities',
-      subTitle: 'Wrold Friends IT Volunteer',
-      startedAt: '2013-07',
-      endedAt: '2013-08',
-    },
-    {
-      title: 'Information Olympiad',
-      subTitle: 'Silver Prize',
-      startedAt: '2008-05',
+      title: '삼성 드림 클래스 대학생 멘토',
+      subTitle: '중학교 방과후 수학 강사',
+      startedAt: '2015-03',
+      endedAt: '2016-02',
     },
   ],
 };

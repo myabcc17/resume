@@ -4,28 +4,28 @@ const backend: ISkill.Skill = {
   category: 'Back-end',
   items: [
     {
-      title: 'Node.js',
+      title: 'Java',
       level: 3,
     },
     {
-      title: 'AWS',
+      title: 'Kubernetes',
       level: 3,
     },
     {
-      title: 'PHP',
+      title: 'Kafka',
+      level: 3,
+    },
+    {
+      title: 'Spring Boot',
+      level: 3,
+    },
+    {
+      title: 'Kotlin',
       level: 2,
     },
     {
-      title: 'Java',
-      level: 1,
-    },
-    {
       title: 'Python',
-      level: 1,
-    },
-    {
-      title: 'C/C++',
-      level: 1,
+      level: 2,
     },
   ],
 };
@@ -34,42 +34,38 @@ const database: ISkill.Skill = {
   category: 'Database',
   items: [
     {
-      title: 'MySQL',
+      title: 'MongoDB',
       level: 3,
-    },
-    {
-      title: 'Oracle',
-      level: 2,
     },
     {
       title: 'Redis',
       level: 2,
     },
     {
-      title: 'MongoDB',
-      level: 1,
+      title: 'Clickhouse',
+      level: 3,
+    },
+    {
+      title: 'MySQL',
+      level: 2,
     },
   ],
 };
 
 const frontend: ISkill.Skill = {
-  category: 'Front-end',
+  category: 'Front-End',
   items: [
     {
-      title: 'Next.js',
-      level: 2,
-    },
-    {
-      title: 'React.js',
-      level: 2,
-    },
-    {
-      title: 'javascript',
+      title: 'Javascript',
       level: 2,
     },
     {
       title: 'HTML/CSS',
-      level: 2,
+      level: 1,
+    },
+    {
+      title: 'React.js',
+      level: 1,
     },
   ],
 };
@@ -78,13 +74,16 @@ const etc: ISkill.Skill = {
   category: 'Etc',
   items: [
     {
-      title: 'Ubuntu',
+      title: 'IDEA',
     },
     {
-      title: 'Vim',
+      title: 'Redash',
     },
     {
-      title: 'Security',
+      title: 'Git / Github',
+    },
+    {
+      title: 'Wiki',
     },
     {
       title: 'VS Code',
