@@ -12,7 +12,7 @@ const experience: IExperience.Payload = {
         '카카오 챗봇 오픈빌더 플랫폼 백엔드 서버 개발',
         '챗봇 데이터 집계 파이프라인 개발 및 분석 데이터 모델링',
         '레거시 제거 및 MSA 전환',
-        ''
+        '',
       ],
       skillKeywords: ['Java', 'Spring Boot', 'MongoDB', 'Kafka', 'Redis', 'k8s'],
     },

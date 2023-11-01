@@ -39,3 +39,7 @@ M
 component/education/index.tsx,9/3/930f2edd15171510027994c78143b387bd760657
 D
 payload/education.ts,3/6/3615e8fc79103ae08b76b11d10a0fc44425d3df8
+B
+payload/_global.ts,f/3/f38cacd6b5401d362c4196bacab3c3fc79a2110f
+>
+payload/etc.ts,1/e/1e06b1b10ae9fbbb48e0f139cd1adee48a047926
