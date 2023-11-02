@@ -43,3 +43,7 @@ B
 payload/_global.ts,f/3/f38cacd6b5401d362c4196bacab3c3fc79a2110f
 >
 payload/etc.ts,1/e/1e06b1b10ae9fbbb48e0f139cd1adee48a047926
+A
+payload/footer.ts,a/a/aa65a2d44bc129773ecabea1c25fe9c4e41d7d6b
+H
+component/common/IRow.ts,6/a/6a953081ef59b292c4bce3adec293de056517f2c

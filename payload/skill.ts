@@ -12,11 +12,15 @@ const backend: ISkill.Skill = {
       level: 3,
     },
     {
+      title: 'Spring Boot',
+      level: 3,
+    },
+    {
       title: 'Kafka',
       level: 3,
     },
     {
-      title: 'Spring Boot',
+      title: 'Jaeger',
       level: 3,
     },
     {
@@ -25,6 +29,14 @@ const backend: ISkill.Skill = {
     },
     {
       title: 'Python',
+      level: 2,
+    },
+    {
+      title: 'Spark',
+      level: 2,
+    },
+    {
+      title: 'Hadoop',
       level: 2,
     },
   ],
@@ -38,12 +50,16 @@ const database: ISkill.Skill = {
       level: 3,
     },
     {
-      title: 'Redis',
-      level: 2,
-    },
-    {
       title: 'Clickhouse',
       level: 3,
+    },
+    {
+      title: 'Hive',
+      level: 3,
+    },
+    {
+      title: 'Redis',
+      level: 2,
     },
     {
       title: 'MySQL',
@@ -83,7 +99,7 @@ const etc: ISkill.Skill = {
       title: 'Git / Github',
     },
     {
-      title: 'Wiki',
+      title: 'Postman',
     },
     {
       title: 'VS Code',

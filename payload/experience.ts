@@ -10,11 +10,13 @@ const experience: IExperience.Payload = {
       startedAt: '2020-07',
       descriptions: [
         '카카오 챗봇 오픈빌더 플랫폼 백엔드 서버 개발',
-        '챗봇 데이터 집계 파이프라인 개발 및 분석 데이터 모델링',
-        '레거시 제거 및 MSA 전환',
-        '',
+        '신규 비즈니스 로직 개발 및 서비스 사용성 개선',
+        '데이터 집계 파이프라인 개발 및 분석 데이터 모델링',
+        '레거시 제거 및 도메인 중심 아키텍처로 점진적 개선',
+        'Kubernetes 기반의 서비스 운영 및 관리',
+        '테스트 코드 작성 및 코드 리뷰',
       ],
-      skillKeywords: ['Java', 'Spring Boot', 'MongoDB', 'Kafka', 'Redis', 'k8s'],
+      skillKeywords: ['Java', 'Spring Boot', 'MongoDB', 'Kafka', 'Redis', 'k8s', 'IntelliJ'],
     },
     {
       title: '웍스모바일',
