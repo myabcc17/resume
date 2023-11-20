@@ -107,7 +107,7 @@ const project: IProject.Payload = {
           content: '2022년 API 내/외부 사용처 추적 기능 추가',
         },
         {
-          content: '2021년 화재 대응',
+          content: '2022년 화재 대응',
           weight: 'MEDIUM',
           descriptions: [
             {
