@@ -22,7 +22,7 @@ const project: IProject.Payload = {
           content: '2022.07 ~ 2022.09 Clickhouse PoC 및 파일럿',
           weight: 'MEDIUM',
           descriptions: [
-            { content: '분석의 다양화를 위해 디멘젼과 세그먼트 별 실시간 분석 가능하도록 개선' },
+            { content: '분석의 다양화를 위해 디멘젼과 세그먼트 별 동적 분석 가능하도록 개선' },
             { content: '타사 서비스(구글, NHN) 참고 잔존율 개념 재정의' },
             { content: 'k8s 기반 클러스터 및 HA, 백업 파이프라인 구축' },
           ],
